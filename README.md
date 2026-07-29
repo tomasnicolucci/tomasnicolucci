@@ -13,7 +13,7 @@
 
 * 🏗️ I enjoy building **REST APIs, backend services, and microservice-ready applications**
 
-* 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration (Nginx)**
+* 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**
 
 * 💬 Ask me about **Node.js, TypeScript, Express, PostgreSQL, Docker, Linux, REST APIs, and Backend Architecture**
 

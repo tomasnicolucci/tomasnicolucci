@@ -44,6 +44,6 @@
 <!--icons and links-->
 <p align="center">
     <a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/tomasnicolucci/tomasnicolucci/assets/linkedin.png" alt="linkedin" height="50" width="50" />
+        <img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" />
     </a>
 </p>

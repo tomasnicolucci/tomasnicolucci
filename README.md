@@ -28,10 +28,8 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="center">  
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,docker,redis,java,linux,md,nginx,mongodb,mysql,postgres,postman,vscode,kubernetes,git,github&perline=9" />
-  </a>
 </p>
 
 
@@ -45,5 +43,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tomasnicolucci/tomasnicolucci/assets/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+    <a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/tomasnicolucci/tomasnicolucci/assets/linkedin.png" alt="linkedin" height="50" width="50" />
+    </a>
 </p>

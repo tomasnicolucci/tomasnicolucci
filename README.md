@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**tomasnicolucci/tomasnicolucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there 👋, I'm Tomás</h1></summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+<!--Intro start-->
+* 🔭 I’m currently working on **Node.js, TypeScript, Express, MariaDB, MongoDB, Docker, and Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning **NestJS, PostgreSQL, Redis, and cloud technologies**
+
+* 🏗️ I enjoy building **REST APIs, backend services, and microservice-ready applications**
+
+* 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration (Nginx)**
+
+* 💬 Ask me about **Node.js, TypeScript, Express, PostgreSQL, Docker, Linux, REST APIs, and Backend Architecture**
+
+* 📫 Feel free to reach me at **[tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)**
+
+<!--Intro end-->
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,docker,redis,java,linux,md,nginx,mongodb,mysql,postgres,postman,vscode,kubernetes,git,github&perline=9" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tomasnicolucci/tomasnicolucci/assets/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+</p>

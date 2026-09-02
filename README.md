@@ -2,22 +2,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm Tomás</h1></summary>
+    <summary><h1 style="display: inline-block">Hi👋, I'm Tomás</h1></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-* 🔭 I’m currently working on **Node.js, TypeScript, Express, MariaDB, MongoDB, Docker, and Linux**
+* 🔭 I’m currently working on **Node.js, TypeScript, Express, PostreSQL, MongoDB, Docker, and Linux**
 
-* 🌱 I’m currently learning **NestJS, PostgreSQL, Redis, and cloud technologies**
+* 🌱 Learning **NestJS, Redis, and cloud technologies**
 
 * 🏗️ I enjoy building **REST APIs, backend services, and microservice-ready applications**
 
 * 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**
 
-* 💬 Ask me about **Node.js, TypeScript, Express, PostgreSQL, Docker, Linux, REST APIs, and Backend Architecture**
-
-* 📫 Feel free to reach me at **[tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)**
+* 📫 Send me a message! **[tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)**
 
 <!--Intro end-->
 
@@ -29,7 +27,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">  
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,docker,redis,java,linux,md,nginx,mongodb,mysql,postgres,postman,vscode,kubernetes,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,docker,postgres,mongodb,redis,js,java,linux,md,nginx,mysql,postman,vscode,kubernetes,git,github&perline=6" />
 </p>
 
 

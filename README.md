@@ -17,7 +17,7 @@ I have experience developing and maintaining APIs with Node.js, administering Li
   </ul>
 </div>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" /><br>
   building **REST APIs, backend services, and microservice-ready applications**
 </p>
 

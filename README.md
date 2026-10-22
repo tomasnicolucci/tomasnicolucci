@@ -15,12 +15,13 @@ I have experience developing and maintaining APIs with Node.js, administering Li
   <ul align="center">
     <summary><h2 style="display: inline-block">Currently working on</h2></summary>
   </ul>
-  <p align="center">  
-    <img src="https://skillicons.dev/icons?   i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" />
-  </p>
+</div>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?   i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" />
+</p>
+<div>
   building **REST APIs, backend services, and microservice-ready applications**
 </div>
-
 * 🌱 Learning **NestJS, Redis, and cloud technologies**
 
 * 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**

@@ -11,11 +11,17 @@ I'm a Systems Analyst with experience in backend development, infrastructure, ne
 
 I have experience developing and maintaining APIs with Node.js, administering Linux servers, and deploying applications with Docker, as well as working with networks and production environments. I'm particularly interested in continuing to grow in Backend Development and Cybersecurity, leveraging my infrastructure experience to build, understand, and secure systems from a broader perspective.
 
-* 🔭 I’m currently working on **Node.js, TypeScript, Express, PostreSQL, MongoDB, Docker, and Linux**
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Currently working on</h2></summary>
+  </ul>
+  <p align="center">  
+    <img src="https://skillicons.dev/icons?   i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" />
+  </p>
+  building **REST APIs, backend services, and microservice-ready applications**
+</div>
 
 * 🌱 Learning **NestJS, Redis, and cloud technologies**
-
-* 🏗️ I enjoy building **REST APIs, backend services, and microservice-ready applications**
 
 * 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**
 

@@ -13,15 +13,14 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Currently working on</h2></summary>
+    <summary><h2 style="display: inline-block">Currently working with</h2></summary>
   </ul>
 </div>
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" />
-</p>
-<div>
   building **REST APIs, backend services, and microservice-ready applications**
-</div>
+</p>
+
 * 🌱 Learning **NestJS, Redis, and cloud technologies**
 
 * 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**
@@ -33,12 +32,12 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Other Technologies👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">  
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,docker,postgres,mongodb,redis,js,java,linux,md,nginx,mysql,postman,vscode,kubernetes,git,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,java,md,nginx,mysql,postman,vscode,kubernetes,git,github&perline=5" />
 </p>
 
 

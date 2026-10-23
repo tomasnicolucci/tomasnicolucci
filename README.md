@@ -51,7 +51,7 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 <!--icons and links-->
 <p align="center">
     <a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank">
-        <img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" />
+        <img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" /><br>
     </a>
     📫 Send me a message! [tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)
 </p>

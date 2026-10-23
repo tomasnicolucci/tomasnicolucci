@@ -18,17 +18,16 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 </div>
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,docker,postgres,mongodb,redis,linux&perline=8" /><br>
-  building **REST APIs, backend services, and microservice-ready applications**
+  building REST APIs, backend services, and microservice-ready applications
 </p>
 
-* 🌱 Learning **NestJS, Redis, and cloud technologies**
+<p align="center">
 
-* 🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**
+  🌱 Learning **NestJS, Redis, and cloud technologies** <br>
 
-* 📫 Send me a message! **[tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)**
-
+  🌐 I have experience working with **IT infrastructure, networking, Linux server administration, virtualization, Docker, and web server configuration**
+</p>
 <!--Intro end-->
-
 
 <div id="user-content-toc">
   <ul align="center">
@@ -45,7 +44,7 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+    <h2 style="display: inline-block">Connect With Me</h2>
   </ul>
 </div>
 
@@ -53,5 +52,6 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 <p align="center">
     <a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank">
         <img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" />
-    </a>
+    </a><br>
+    📫 Send me a message! [tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)
 </p>

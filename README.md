@@ -44,7 +44,7 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <h2 style="display: inline-block">Connect With Me</h2>
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
   </ul>
 </div>
 
@@ -52,6 +52,6 @@ I have experience developing and maintaining APIs with Node.js, administering Li
 <p align="center">
     <a href="https://www.linkedin.com/in/tomasnicolucci/" target="blank">
         <img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" />
-    </a><br>
+    </a>
     📫 Send me a message! [tomas.nicolucci@gmail.com](mailto:tomas.nicolucci@gmail.com)
 </p>
